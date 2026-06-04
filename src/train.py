@@ -24,7 +24,7 @@ def train_model():
     model : RandomForestClassifier
         Trained machine learning model.
     """
-
+    print("Training model started...")
     # Load built-in Iris dataset
     iris = load_iris()
 
