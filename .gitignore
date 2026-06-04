@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# ML Artifacts
+*.pkl
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
